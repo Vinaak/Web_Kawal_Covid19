@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav, nav a{
+    text-transform: uppercase;
+    color :white;
+}
+
+nav a.active{
+    color :#0080FF;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color :#0080FF;
+}
+
+nav h5{
+    font-weight: bold;
+}
+
+.main{
+    color :white;
+}
+.main h3{
+    font-weight: 100;
+}
+
+.main h3 span{
+    font-weight: 400;
+    color :#F9D83F;
+}
+
+.card-body{
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-img{
+    position: absolute;
+    bottom: -68px;
+    right: 60px;
+    width: 30%;
+}
+
+
